@@ -1,1 +1,2 @@
-# Lang-Resourcepack-Exporter
+# Lang ResourcePack Exporter
+

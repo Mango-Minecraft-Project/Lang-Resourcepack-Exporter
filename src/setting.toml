@@ -1,0 +1,6 @@
+mod-loader = 'forge'
+minecraft-version = '1.19.2'
+
+[resource-pack]
+filename = 'resource_pack'
+description = 'export lang'
